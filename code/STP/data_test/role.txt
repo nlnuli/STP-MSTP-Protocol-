@@ -1,0 +1,32 @@
+1 role: Designated
+2 role: Designated
+3 role: Root Port
+4 role: Designated
+5 role: Designated
+6 role: Root Port
+7 role: Designated
+8 role: Designated
+9 role: Root Port
+10 role: AP
+11 role: Designated
+12 role: Designated
+13 role: Designated
+14 role: Root Port
+15 role: AP
+16 role: AP
+17 role: Designated
+18 role: Designated
+19 role: Root Port
+20 role: Designated
+21 role: Root Port
+22 role: AP
+23 role: Root Port
+24 role: AP
+switch1 role: Switch
+switch2 role: Switch
+switch3 role: Switch
+switch4 role: Switch
+switch5 role: Switch
+switch6 role: Switch
+switch7 role: Switch
+switch8 role: Switch
